@@ -1,6 +1,6 @@
 # ICEbot v6 for Gartic.io
 
-What's new:
+### What's new:
 
 • All bots in one tab
 
@@ -20,7 +20,7 @@ What's new:
 
 • Bypass httpOnly cookies from wss/https
 
-How to use:
+### How to use:
 
 Load both extensions into your browser. 
 
