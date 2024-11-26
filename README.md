@@ -20,6 +20,8 @@
 
 • Bypass httpOnly cookies from wss/https
 
+• Over 50+ proxies to use
+
 ### How to use:
 
 Load both extensions into your browser. 
